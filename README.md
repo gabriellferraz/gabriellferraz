@@ -1,7 +1,7 @@
 ###<h1 align="center">👋🏾 Olá, eu sou o Gabriel</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/MLO0CRL.png" width="100%" alt="Banner de abertura">
+  
 </p>
 
 <p align="center">
@@ -58,11 +58,6 @@
 
 ---
 
-### 📫 Contato
-
-- ✉️ gabriellferraz@gmail.com  
-
----
 
 <p align="center">🔥 "Se não deu certo é porque não chegou ao fim." 🔥</p>
 <!--
